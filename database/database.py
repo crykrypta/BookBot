@@ -6,4 +6,4 @@ user_dict_template = {
 }
 
 # init a database
-user_db = {}
+users_db = {}
